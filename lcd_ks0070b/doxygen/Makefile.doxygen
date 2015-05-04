@@ -1,0 +1,7 @@
+.PHONY: all
+all:
+	doxygen ./config.doxygen
+
+.PHONY: clean
+clean:
+	@rm -r ./html/* ||:

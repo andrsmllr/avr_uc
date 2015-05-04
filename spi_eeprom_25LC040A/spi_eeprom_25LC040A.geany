@@ -1,0 +1,44 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=true
+
+[indentation]
+indent_width=4
+indent_type=0
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=spi_eeprom_25LC040A
+base_path=/home/andreas/projects/avr_uc/spi_eeprom_25LC040A/
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=78
+
+[files]
+current_page=2
+FILE_NAME_0=504;Make;0;EUTF-8;1;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fspi_eeprom_25LC040A%2FMakefile;0;4
+FILE_NAME_1=433;C;0;EUTF-8;0;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fspi_eeprom_25LC040A%2Fspi_eeprom_25LC040A.h;0;4
+FILE_NAME_2=422;C;0;EUTF-8;0;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fspi_eeprom_25LC040A%2Fspi_eeprom_25LC040A.c;0;4
+
+[VTE]
+last_dir=/home/andreas
+
+[build-menu]
+MakeFT_00_LB=compile
+MakeFT_00_CM=make compile
+MakeFT_00_WD=
+MakeFT_01_LB=burn
+MakeFT_01_CM=make burn
+MakeFT_01_WD=
+MakeFT_02_LB=clean
+MakeFT_02_CM=make clean
+MakeFT_02_WD=
+filetypes=Make;

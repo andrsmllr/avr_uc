@@ -1,0 +1,47 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=shreg_ssdisp
+base_path=/home/andreas/projects/avr_uc/shreg_ssdisp
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=0
+FILE_NAME_0=1259;Make;0;EUTF-8;1;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fshreg_ssdisp%2FMakefile;0;4
+FILE_NAME_1=1440;C;0;EUTF-8;1;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fshreg_ssdisp%2Fshreg_ssdisp.c;0;4
+FILE_NAME_2=160;C;0;EUTF-8;1;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fshreg_ssdisp%2Fshreg_ssdisp.h;0;4
+
+[VTE]
+last_dir=/home/andreas
+
+[build-menu]
+NF_00_LB=_Make
+NF_00_CM=make
+NF_00_WD=
+MakeFT_00_LB=make burn
+MakeFT_00_CM=make burn
+MakeFT_00_WD=
+MakeFT_01_LB=make docu
+MakeFT_01_CM=make docu
+MakeFT_01_WD=
+MakeFT_02_LB=
+MakeFT_02_CM=
+MakeFT_02_WD=
+filetypes=Make;
