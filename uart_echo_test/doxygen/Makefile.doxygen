@@ -1,0 +1,18 @@
+#############################################################################
+# A basic Makefile to support doxygen.
+# This Makefile is supposed to be called from the main Makefile of the
+# project, with the -C option specifying the doxygen directory.
+# Example:
+# .PHONY: docu
+# docu:
+# 	make -C ./doxygen -f ./doxygen/Makefile.doxygen all
+#############################################################################
+
+.PHONY: all
+all:
+	doxygen ./config.doxygen
+
+.PHONY: clean
+clean:
+	@rm -r ./html/* ||:
+
