@@ -25,8 +25,8 @@ long_line_column=78
 [files]
 current_page=2
 FILE_NAME_0=504;Make;0;EUTF-8;1;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fspi_eeprom_25LC040A%2FMakefile;0;4
-FILE_NAME_1=433;C;0;EUTF-8;0;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fspi_eeprom_25LC040A%2Fspi_eeprom_25LC040A.h;0;4
-FILE_NAME_2=422;C;0;EUTF-8;0;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fspi_eeprom_25LC040A%2Fspi_eeprom_25LC040A.c;0;4
+FILE_NAME_1=1371;C;0;EUTF-8;0;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fspi_eeprom_25LC040A%2Fspi_eeprom_25LC040A.h;0;4
+FILE_NAME_2=2258;C;0;EUTF-8;0;1;0;%2Fhome%2Fandreas%2Fprojects%2Favr_uc%2Fspi_eeprom_25LC040A%2Fspi_eeprom_25LC040A.c;0;4
 
 [VTE]
 last_dir=/home/andreas
